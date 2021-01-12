@@ -6,3 +6,7 @@ How does your computer try to dream?
 ```
 conda install numba & conda install cudatoolkit
 ```
+
+## Result
+
+![Result](result.gif)
